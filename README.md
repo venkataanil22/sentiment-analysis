@@ -7,7 +7,7 @@ This is the final solution of the project 'Sagemaker Deployment' which consists 
 
 In the final architecture AWS API Gateway and AWS Lambda functions is used as well. The application architecture diagram is:
 
-
+![](Web%20App%20Diagram.svg)
 
 You can find the original code without solutions in the original Udacity SageMaker Deployment repository.
 
